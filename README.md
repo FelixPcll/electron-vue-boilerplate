@@ -1,4 +1,4 @@
-# n5-project
+# Electron-Vue Boilerplate
 
 > An electron-vue project
 
